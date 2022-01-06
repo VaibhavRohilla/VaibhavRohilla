@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Dev
 - 🌱 I’m currently learning Unity,OpenGL
 - 💞️ I’m looking to collaborate on Game Projects as a Programmer
-- 📫 How to reach me on Fnxdev2000@gmail.com
+- 📫 Reach me on Fnxdev2000@gmail.com
 
 <!---
 VaibhavRohilla/VaibhavRohilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
