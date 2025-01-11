@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vaibhav  
-🎮 **Game Developer** | 💻 **Full Stack Developer** | 🚀 **Tech Enthusiast**
+🎮 **Game Developer** | 🚀 **Tech Enthusiast**
 
 ---
 
