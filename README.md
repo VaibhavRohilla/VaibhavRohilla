@@ -16,7 +16,6 @@ I am a passionate developer with a knack for creating immersive gaming experienc
 
 ### Backend Development  
 - **Node.js**, **TypeScript**, **Express**  
-- **MongoDB**, **Redis**, **PostgreSQL**  
 - **WebSockets** for real-time communication  
 
 ### Frontend Development  
